@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JGk3mlKBJswqGO0vOK7MNpXaRhuLsHLTD7Il0GCPRUiILZtvP2mIhqldbF950oiVcfMjUHudqy84i/ZwrHF2/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Natalia\\source\\repos\\t\\t.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natalia\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Natalia\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
